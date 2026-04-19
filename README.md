@@ -109,8 +109,5 @@ Source: [Kaggle — Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/
 
 ## 👤 Author
 
-**Khush Gupta** — 25-Day AI Sprint · Day 5 of 25
+**Khush Gupta** 
 
----
-
-*Part of a structured sprint to build a DS/ML-ready GitHub profile targeting 10–14 LPA roles.*
